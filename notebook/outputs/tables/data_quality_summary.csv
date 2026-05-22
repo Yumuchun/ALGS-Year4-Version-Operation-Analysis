@@ -1,0 +1,22 @@
+check,status,affected_rows,details
+game_count_Split 1,pass,0,"expected=62, actual=62"
+game_count_EWC,pass,0,"expected=43, actual=43"
+game_count_Split 2,pass,0,"expected=64, actual=64"
+game_count_Championship,pass,0,"expected=69, actual=69"
+team_rows_per_game,pass,0,"min=20, max=20, games_not_20=0"
+total_points_formula,pass,0,total_points == kills + placement_points_reported
+score_check_column,pass,0,score_check column should be ok for all rows
+match_scores_critical_missing,pass,0,"critical columns checked: ['event_slug', 'game_id', 'team', 'placement', 'kills', 'total_points']"
+match_scores_duplicate_rows,pass,0,full-row duplicate count
+game_team_stats_critical_missing,pass,0,"critical columns checked: ['event_slug', 'game_id', 'team', 'kills', 'deaths', 'rez', 'rspn']"
+game_team_stats_duplicate_rows,pass,0,full-row duplicate count
+overview_team_stats_critical_missing,pass,0,"critical columns checked: ['event_slug', 'team', 'games', 'kills', 'place_pts', 'total_pts', 'top_5s']"
+overview_team_stats_duplicate_rows,pass,0,full-row duplicate count
+overview_composition_meta_critical_missing,pass,0,"critical columns checked: ['event_slug', 'composition', 'pick_rate_pct', 'top_5_rate_pct', 'win_rate_pct']"
+overview_composition_meta_duplicate_rows,pass,0,full-row duplicate count
+overview_legend_meta_critical_missing,pass,0,"critical columns checked: ['event_slug', 'legend', 'pick_rate_pct', 'top_5_rate_pct']"
+overview_legend_meta_duplicate_rows,pass,0,full-row duplicate count
+weapon_stats_critical_missing,pass,0,"critical columns checked: ['event_slug', 'source_scope', 'weapon', 'kills', 'damage']"
+weapon_stats_duplicate_rows,pass,0,full-row duplicate count
+team_composition_missing_rows,warn,40,missing composition rows are retained in the quality report
+team_composition_three_legends,pass,0,all non-missing team composition rows should contain exactly 3 legends

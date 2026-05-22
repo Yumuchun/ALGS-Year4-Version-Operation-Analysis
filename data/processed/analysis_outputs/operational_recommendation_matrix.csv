@@ -1,0 +1,5 @@
+event_slug,event_label,action_level,primary_risk,operational_judgment,optional_tuning_direction,evidence
+playoffs_split1,Split 1 Playoffs,调优,信息 / 烟雾 / 控场协同让旧阵容成为稳定答案,阵容和角色都高度集中，应优先拆组合收益，而不是只看 Bangalore 单点强度。,检查 Bloodhound 扫描与穿烟、Digital Threat、Caustic 控场的叠加收益；给非扫描和非烟雾阵容留下信息入口。,"Bangalore 88.6%, Bloodhound 87.0%, Caustic 57.8%, Top 1 阵容 53.2%"
+midseason_ewc_split1,EWC,预警,阵容被打散后，AR / HAVOC / Hemlok 接管输出核心,职业队没有停在多样化，而是迁移到更稳定的武器答案；这是替代集中风险。,优先看 HAVOC / Hemlok 的稳定性、有效距离、弹药经济和伤害转击杀效率，同时恢复近战武器的明确使用场景。,"AR 67.7%, HAVOC 33.9%, Hemlok 21.1%, Top 1 阵容 18.2%"
+playoffs_split2,Split 2 Playoffs,调优,AR 被打散后，Akimbo / Crypto / 防守阵容形成新集中,Shockwave 的方向有效，但部分信号生效过头；需要同时看武器强度和信息刚需。,对 Mozambique Akimbo 先查爆发窗口、拾取稳定性和有效距离；对 Crypto 优先补替代信息路径和反制反馈，而不是直接大削。,"Mozambique Akimbo 33.2%, Crypto 71.5%, Top 3 阵容 65.7%"
+championship_split2,Championship,赛事规则介入 + 系统调优,Support / 防守 / Shotgun / reset 形成最高确定性闭环,这不是单个角色或单把枪的问题，而是失败成本被压低后，职业队缺少真实替代路径。,优先降低双 Support 容错和 Dome / Shield / 掩体链路稳定性，增加进攻破盾与反重置入口；赛事侧可用 Ban/Pick 打断整组最优解。,"Gibraltar 99.8%, Newcastle 95.8%, Support 202.3%, Top 1 阵容 65.7%, Shotgun 65.0%"

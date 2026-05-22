@@ -1,0 +1,5 @@
+event_slug,event_name,overview_url,split,league,region,day,group,game_id,game_count_discovered,game_count_scraped,map_pool_discovered
+playoffs_split1,ALGS Year 4 Split 1 Playoffs,https://apexlegendsstatus.com/algs/Y4-Split1/ALGS-Playoffs/Global/Overview,Y4-Split1,ALGS-Playoffs,Global,Overview,,,62,62,"Storm Point, World's Edge"
+midseason_ewc_split1,ALGS Year 4 Midseason Playoffs / EWC,https://apexlegendsstatus.com/algs/Y4-Split1/EWC/Global/Overview,Y4-Split1,EWC,Global,Overview,,,43,43,"Broken Moon, Kings Canyon, Olympus, Storm Point, World's Edge"
+playoffs_split2,ALGS Year 4 Split 2 Playoffs,https://apexlegendsstatus.com/algs/Y4-Split2/ALGS-Playoffs/Global/Overview,Y4-Split2,ALGS-Playoffs,Global,Overview,,,64,64,"Storm Point, World's Edge"
+championship_split2,ALGS Year 4 Championship,https://apexlegendsstatus.com/algs/Y4-Split2/ALGS-Championships/Global/Overview,Y4-Split2,ALGS-Championships,Global,Overview,,,69,69,"E-District, Storm Point, World's Edge"

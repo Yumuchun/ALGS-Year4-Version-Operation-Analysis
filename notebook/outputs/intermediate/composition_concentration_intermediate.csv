@@ -1,0 +1,5 @@
+event_slug,composition_count,top1_composition,top1_comp_share,top3_comp_share,top5_comp_share,event_label
+playoffs_split1,44,"Bangalore, Bloodhound, Caustic",53.15,70.24,79.10999999999999,Split 1
+midseason_ewc_split1,34,"Bangalore, Pathfinder, Wattson",18.19,47.72,71.1,EWC
+playoffs_split2,34,"Bangalore, Crypto, Wattson",36.72,65.7,79.38,Split 2
+championship_split2,16,"Gibraltar, Newcastle, Rampart",65.65,91.45000000000002,97.39000000000003,Championship

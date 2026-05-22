@@ -1,0 +1,5 @@
+event_slug,patch_slug,relationship
+playoffs_split1,breakout,Closest major season patch before Split 1 Playoffs.
+midseason_ewc_split1,upheaval,Closest major season patch before the midseason EWC event.
+playoffs_split2,shockwave,Closest major season patch before Split 2 Playoffs.
+championship_split2,from_the_rift,Closest major season patch before Year 4 Championship.
